@@ -1,0 +1,1 @@
+A little test program printing the contents of siginfo_t (man sigaction(2)) under various conditions.

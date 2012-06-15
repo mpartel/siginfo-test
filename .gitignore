@@ -1,0 +1,8 @@
+/test
+/tmp
+/*.settings
+
+/linux
+/initrd
+/rootfs
+/input
